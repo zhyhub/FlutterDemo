@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-4.0.2" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker-0.4.10" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-2.1.5" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_sound-1.2.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

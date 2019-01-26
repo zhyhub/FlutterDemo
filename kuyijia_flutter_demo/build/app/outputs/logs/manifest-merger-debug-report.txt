@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [:fluttertoast] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/fluttertoast/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-14:12
+MERGED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-23:12
+MERGED from [:flutter_sound] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/flutter_sound/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6b24ad5b733ec3ca8abb5f0d7058c345/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0ff737c6ab9e15d031ca03670821e88e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/37d7b86bd7ab46cd760e2540e70454b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b5b38f681b2af63f04423d106b2e4a13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8affbf7eb75a0bf492390cc2c12b984c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/cbbf5888ed3536b5f8df32b5dfd755d6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8a3c1608ac5f9aa663722d45110e0a13/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bd85a2e6b20706cca9be583294b04bbb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6aca42339c1af9c9b98709bb9493708e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/84651f68586ec6bec9b705e4b8238f4b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:1:1-41:12
+	package
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:2:5-45
+		INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:9:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:10:5-81
+MERGED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-81
+MERGED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:10:22-78
+application
+ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:17:5-40:19
+MERGED from [:url_launcher] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-12:19
+MERGED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+	android:label
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:19:9-45
+	android:icon
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:20:9-43
+	android:name
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:18:9-57
+activity#com.example.kuyijiaflutterdemo.MainActivity
+ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:21:9-39:20
+	android:launchMode
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:23:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:26:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:27:13-55
+	android:configChanges
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:25:13-137
+	android:theme
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:name
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:22:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:32:13-34:40
+	android:value
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:34:17-37
+	android:name
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:33:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:36:17-68
+	android:name
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml
+MERGED from [:fluttertoast] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/fluttertoast/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/fluttertoast/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_sound] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/flutter_sound/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_sound] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/flutter_sound/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6b24ad5b733ec3ca8abb5f0d7058c345/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6b24ad5b733ec3ca8abb5f0d7058c345/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0ff737c6ab9e15d031ca03670821e88e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0ff737c6ab9e15d031ca03670821e88e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/37d7b86bd7ab46cd760e2540e70454b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/37d7b86bd7ab46cd760e2540e70454b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b5b38f681b2af63f04423d106b2e4a13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b5b38f681b2af63f04423d106b2e4a13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8affbf7eb75a0bf492390cc2c12b984c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8affbf7eb75a0bf492390cc2c12b984c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/cbbf5888ed3536b5f8df32b5dfd755d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/cbbf5888ed3536b5f8df32b5dfd755d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8a3c1608ac5f9aa663722d45110e0a13/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8a3c1608ac5f9aa663722d45110e0a13/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bd85a2e6b20706cca9be583294b04bbb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bd85a2e6b20706cca9be583294b04bbb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6aca42339c1af9c9b98709bb9493708e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6aca42339c1af9c9b98709bb9493708e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/84651f68586ec6bec9b705e4b8238f4b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/zhenghaoyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/84651f68586ec6bec9b705e4b8238f4b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/android/app/src/main/AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.UrlLauncherPlugin$WebViewActivity
+ADDED from [:url_launcher] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:13-92
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.CAMERA
+ADDED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:22-62
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:13-19:75
+	android:resource
+		ADDED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:17-72
+	android:name
+		ADDED from [:image_picker] /Users/zhenghaoyu/Code/Flutter/kuyijia_flutter_demo/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:17-67
