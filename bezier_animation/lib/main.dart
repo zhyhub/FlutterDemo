@@ -1,63 +1,56 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/animation.dart';
 
-void main() => runApp(MyApp());
-
-class MyApp extends StatelessWidget {
+/// 弹簧效果的动画
+class CurvedScaleImageDemo extends StatefulWidget {
   @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
-    );
-  }
+  _ScaleImageState createState() => _ScaleImageState();
 }
 
-class MyHomePage extends StatefulWidget {
-  MyHomePage({Key key, this.title}) : super(key: key);
+class _ScaleImageState extends State<CurvedScaleImageDemo>  with SingleTickerProviderStateMixin{
 
-  final String title;
+  Animation<double> animation;
+  AnimationController controller;
 
-  @override
-  _MyHomePageState createState() => _MyHomePageState();
-}
+  initState() {
+    super.initState();
+    controller =  AnimationController(
+        duration: const Duration(seconds: 3), vsync: this);
+    //使用弹性曲线
+    animation =CurvedAnimation(parent: controller, curve: Curves.bounceIn);
+    //图片宽高从0变到300
+    animation = Tween(begin: 0.0, end: 300.0).animate(animation)
+      ..addListener(() {
+        setState(()=>{});
+      });
 
-class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
-
-  void _incrementCounter() {
-    setState(() {
-      _counter++;
-    });
+    controller.forward();
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.title),
-      ),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[
-            Text(
-              'You have pushed the button this many times:',
-            ),
-            Text(
-              '$_counter',
-              style: Theme.of(context).textTheme.display1,
-            ),
-          ],
+        appBar: AppBar(
+          title: Center(child:Text("CurvedAnimation的简单使用")),
+          elevation: 0.0,
         ),
-      ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
-        tooltip: 'Increment',
-        child: Icon(Icons.add),
-      ),
+        body: Center(
+          child: Image.asset("images/beauty3.jpg",
+              width: animation.value,
+              height: animation.value
+          ),
+        )
     );
+    /// 从这里可以看出，animation其实和wiget是无关的
   }
+  @override
+  dispose() {
+    //路由销毁时需要释放动画资源
+    controller.dispose();
+    super.dispose();
+  }
+}
+
+void main() {
+  runApp(new CurvedScaleImageDemo());
 }
